@@ -1,0 +1,16 @@
+13/12,10,20,user2,act0,travel the hippopotamus,0.04
+19/7,0,10,user42,act1,sip the gazelle,0.83
+2/8,12,20,user59,act2,save the halibut,0.06
+26/7,2,6,user37,act3,introduce the sideboard,0.52
+3/2,8,11,user29,act4,wash the pink,0.46
+26/8,1,3,user44,act5,trace the equipment,0.2
+31/8,8,18,user12,act6,stitch the turnover,0.08
+11/10,3,11,user90,act7,double the cycle,0.77
+6/7,11,14,user50,act8,mix the tortoise,0.08
+24/12,9,17,user54,act9,promise the puppy,0.9
+10/3,0,9,user56,act10,damage the cent,0.85
+12/2,7,9,user3,act11,haunt the leather,0.96
+16/10,2,11,user70,act12,jam the seaplane,0.94
+13/12,11,17,user46,act13,knot the war,0.8
+26/12,1,5,user63,act14,curl the betty,0.79
+13/1,3,13,user70,act15,number the iran,0.74
